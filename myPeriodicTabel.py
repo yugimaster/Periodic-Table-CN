@@ -102,6 +102,96 @@ def get_en_periodic_table():
             elif count == 29:
                 element = Element_Zinc(moduel)
                 element_list.append(element)
+            elif count == 30:
+                element = Element_Gallium(moduel)
+                element_list.append(element)
+            elif count == 31:
+                element = Element_Germanium(moduel)
+                element_list.append(element)
+            elif count == 32:
+                element = Element_Arsenic(moduel)
+                element_list.append(element)
+            elif count == 33:
+                element = Element_Selenium(moduel)
+                element_list.append(element)
+            elif count == 34:
+                element = Element_Bromine(moduel)
+                element_list.append(element)
+            elif count == 35:
+                element = Element_Krypton(moduel)
+                element_list.append(element)
+            elif count == 36:
+                element = Element_Rubidium(moduel)
+                element_list.append(element)
+            elif count == 37:
+                element = Element_Strontium(moduel)
+                element_list.append(element)
+            elif count == 38:
+                element = Element_Yttrium(moduel)
+                element_list.append(element)
+            elif count == 39:
+                element = Element_Zirconium(moduel)
+                element_list.append(element)
+            elif count == 40:
+                element = Element_Niobium(moduel)
+                element_list.append(element)
+            elif count == 41:
+                element = Element_Molybdeum(moduel)
+                element_list.append(element)
+            elif count == 42:
+                element = Element_Technetium(moduel)
+                element_list.append(element)
+            elif count == 43:
+                element = Element_Ruthenium(moduel)
+                element_list.append(element)
+            elif count == 44:
+                element = Element_Rhodium(moduel)
+                element_list.append(element)
+            elif count == 45:
+                element = Element_Palladium(moduel)
+                element_list.append(element)
+            elif count == 46:
+                element = Element_Silver(moduel)
+                element_list.append(element)
+            elif count == 47:
+                element = Element_Cadmium(moduel)
+                element_list.append(element)
+            elif count == 48:
+                element = Element_Indium(moduel)
+                element_list.append(element)
+            elif count == 49:
+                element = Element_Tin(moduel)
+                element_list.append(element)
+            elif count == 50:
+                element = Element_Antimony(moduel)
+                element_list.append(element)
+            elif count == 51:
+                element = Element_Tellurium(moduel)
+                element_list.append(element)
+            elif count == 52:
+                element = Element_Iodine(moduel)
+                element_list.append(element)
+            elif count == 53:
+                element = Element_Xenon(moduel)
+                element_list.append(element)
+            elif count == 54:
+                element = Element_Cesium(moduel)
+                element_list.append(element)
+            elif count == 55:
+                element = Element_Barium(moduel)
+                element_list.append(element)
+            elif count == 56:
+                element = Element_Lanthanum(moduel)
+                element_list.append(element)
+            elif count == 57:
+                element = Element_Cerium(moduel)
+                element_list.append(element)
+            elif count == 58:
+                element = Element_Praseodymium(moduel)
+                element_list.append(element)
+            elif count == 59:
+                element = Element_Neodymium(moduel)
+                element_list.append(element)
         data = {"elements": element_list}
         with open("PeriodicTabel.json", 'w') as f:
             json.dump(data, f, ensure_ascii=False, sort_keys=True, indent=4)
