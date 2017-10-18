@@ -414,8 +414,8 @@ def Element_Selenium(item):
     element['name_zh'] = "硒"
     element['appearance_zh'] = "黑色，红色和灰色同素异形体"
     element['category_zh'] = "多原子非金属"
-    element['discovered_by'] = "Jöns Berzelius"
-    element['discovered_by_zh'] = "永斯·贝尔塞柳斯"
+    element['discovered_by'] = "Jöns Jacob Berzelius"
+    element['discovered_by_zh'] = "永斯·雅各布·贝采利乌斯"
     element['named_by_zh'] = None
     element['phase_zh'] = "固体"
     element['summary'] = "Gallium is a chemical element with symbol Ga and atomic number 31. Elemental gallium does not occur in free form in nature, but as the gallium(III) compounds that are in trace amounts in zinc ores and in bauxite. Gallium is a soft, silvery metal, and elemental gallium is a brittle solid at low temperatures, and melts at 29.76℃ (85.57°F) (slightly above room temperature)."
@@ -745,4 +745,715 @@ def Element_Neodymium(item):
     element['named_by_zh'] = None
     element['phase_zh'] = "固体"
     element['summary_zh'] = "钕是原子序数为60的化学元素，化学符号为Nd。它是一种柔软的银色金属，在空气中会变色。1885年奥地利化学家卡尔·奥尔·冯·威尔斯巴赫发现了它。"
+    return element
+
+
+def Element_Promethium(item):
+    element = item
+    element['name_zh'] = "钷"
+    element['appearance_zh'] = "金属色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "吴健雄"
+    element['named_by_zh'] = "钷的同位素"
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钷是原子序数为61的化学元素，化学符号为Pm。它的所有同位素都是放射性的；它是元素周期表中仅有这样性质的两种元素之一，是具有稳定形式的元素，另一个是锝。钷是镧系元素，它与其他元素组合时会形成盐。"
+    return element
+
+
+def Element_Samarium(item):
+    element = item
+    element['name_zh'] = "钐"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "保罗·埃米尔·勒科克·德布瓦博德兰"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钐是原子序数为62的化学元素，化学符号为Sm。它是一种中等硬度的银色金属，在空气容易被氧化。作为镧系元素的典型成员，钐通常呈现氧化态+3。"
+    return element
+
+
+def Element_Europium(item):
+    element = item
+    element['name_zh'] = "铕"
+    element['appearance_zh'] = None
+    element['category_zh'] = "镧系"
+    element['discovered_by'] = "Eugène-Anatole Demarçay"
+    element['discovered_by_zh'] = "尤金·德马塞"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铕是原子序数为63的化学元素，化学符号为Eu。它于1901年被隔离出来，以欧洲大陆命名。它是一种中等硬度的银色金属，在空气和水中容易被氧化。"
+    return element
+
+
+def Element_Gadolinium(item):
+    element = item
+    element['name_zh'] = "钆"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "让-夏尔·加利萨·德马里尼亚"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钆是原子序数为64的化学元素，化学符号为Gd。它是种银白色、有韧性的稀土金属。它在自然界中只以组合盐的形式存在。"
+    return element
+
+
+def Element_Terbium(item):
+    element = item
+    element['name_zh'] = "铽"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "卡尔·古斯塔夫·莫桑德"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铽是原子序数为65的化学元素，化学符号为Tb。它是一种银白色稀土金属，具有韧性和柔软度，可以用刀切割。铽在自然界中不以单质形式存在，但许多矿物质中都含有它，包括硅藻土、钆石、独居石、堇青石和镍铁矿。"
+    return element
+
+
+def Element_Dysprosium(item):
+    element = item
+    element['name_zh'] = "镝"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "保罗·埃米尔·勒科克·德布瓦博德兰"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镝是原子序数为66的化学元素，化学符号为Dy。它是一种具有金属光泽的银白色稀土元素。镝在自然界中不能单质形式存在，它像氙气一样在各种矿物质中存在。"
+    return element
+
+
+def Element_Holmium(item):
+    element = item
+    element['name_zh'] = "钬"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "马克·德拉方丹"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钬是原子序数为67的化学元素，化学符号为Ho。属于镧系元素，钬是稀土元素，它被瑞典化学家佩尔·特奥多尔·克里夫发现。"
+    return element
+
+
+def Element_Erbium(item):
+    element = item
+    element['name_zh'] = "铒"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "卡尔·古斯塔夫·莫桑德"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铒是原子序数为68的化学元素，化学符号为Er。一种银白色固体金属，当人为隔离时，天然铒总是与地球上其他元素的化学结合而被发现。它是一种稀土元素，与在瑞典Ytterby钆矿物中发现的钇、镱和铽等稀土元素有关。"
+    return element
+
+
+def Element_Thulium(item):
+    element = item
+    element['name_zh'] = "铥"
+    element['appearance_zh'] = "银灰色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "佩尔·特奥多尔·克里夫"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铥是原子序数为69的化学元素，化学符号为Tm。它是第十三个镧素元素中倒数第三个元素。像其他镧系元素一样，它最常见的氧化态是+3，常见于其氧化物、卤化物和其他化合物。"
+    return element
+
+
+def Element_Ytterbium(item):
+    element = item
+    element['name_zh'] = "镱"
+    element['appearance_zh'] = None
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "让-夏尔·加利萨·德马里尼亚"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镱是原子序数为70的化学元素，化学符号为Yb。它是第十四个镧系元素中倒数第二个元素，它的氧化态+2相对比较稳定。但像其他镧系元素一样，其最常见的氧化态是+3，常见于其氧化物、卤化物和其他化合物。"
+    return element
+
+
+def Element_Lutetium(item):
+    element = item
+    element['name_zh'] = "镥"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "镧系"
+    element['discovered_by_zh'] = "乔治·于尔班"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镥是原子序数为71的化学元素，化学符号为Lu。它是一种银白色金属，在干燥的空气中能抗腐蚀但在潮湿的空气却不能。它被认为是第六期过渡金属的第一个元素，也是镧系元素中最后一个元素，是传统意义上的稀土元素。"
+    return element
+
+
+def Element_Hafnium(item):
+    element = item
+    element['name_zh'] = "铪"
+    element['appearance_zh'] = "钢灰色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "迪尔克·科斯特"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铪是原子序数为72的化学元素，化学符号为Hf。一种有光泽的、四价银灰色过渡金属，铪在化学性质上与锆相似，常见于锆矿物中。它的存在是由德米特里·门捷列夫在1869年预测的，尽管直到1923年才被确认，成为倒数第二个被发现的稳定元素（两年后确定了铼）。"
+    return element
+
+
+def Element_Tantalum(item):
+    element = item
+    element['name_zh'] = "钽"
+    element['appearance_zh'] = "蓝灰色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "安德斯·古斯塔夫·埃克贝格"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钽是原子序数为73的化学元素，化学符号为Ta。以前被称为tantalium，它的名字来自Tantalus，一个希腊神话中的反派英雄。钽是一种罕见的、坚硬的、有光泽的蓝灰色金属，具有很高的耐腐蚀性。"
+    return element
+
+
+def Element_Tungsten(item):
+    element = item
+    element['name_zh'] = "钨"
+    element['appearance_zh'] = "灰白色，有光泽"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "卡尔·威廉·舍勒"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钨是原子序数为74的化学元素，化学符号为W。钨这个词来自瑞典语屯门，它可以直接转化成重石。但是在瑞典语中读作volfram，这样就可以在白俄罗斯语中区分开来。"
+    return element
+
+
+def Element_Rhenium(item):
+    element = item
+    element['name_zh'] = "铼"
+    element['appearance_zh'] = "银灰色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "小川正隆"
+    element['named_by_zh'] = "沃尔特·诺达克"
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铼是原子序数为75的化学元素，化学符号为Re。它是元素周期表中第7组第三排银白色过渡重金属。铼是地壳中最稀有的元素之一，平均密度大约为十亿分之一（ppb）。"
+    return element
+
+
+def Element_Osmium(item):
+    element = item
+    element['name_zh'] = "锇"
+    element['appearance_zh'] = "银色，蓝色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "史密森·特南特"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary'] = "Osmium (from Greek osme (ὀσμή) meaning \"smell\") is a chemical element with symbol Os and atomic number 76. It is a hard, brittle, bluish-white transition metal in the platinum group that is found as a trace element in alloys, mostly in platinum ores. Osmium is the densest naturally occurring element, with a density of 22.59 g/cm3."
+    element['summary_zh'] = "锇是原子序数为76的化学元素，化学符号为Os（来自希腊语osme （ὀσμή） 意为\"气味\"）。它是铂族元素中坚硬的、有脆性的蓝白色过渡金属，在合金中主要是铂矿石以微量元素形式存在。锇是密度最高的天然元素，密度为22.59/cm3。"
+    return element
+
+
+def Element_Iridium(item):
+    element = item
+    element['name_zh'] = "铱"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "史密森·特南特"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary'] = "Iridium is a chemical element with symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the platinum group, iridium is generally credited with being the second densest element (after osmium) based on measured density, although calculations involving the space lattices of the elements show that iridium is denser. It is also the most corrosion-resistant metal, even at temperatures as high as 2000℃. Although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable."
+    element['summary_zh'] = "铱是原子序数为77的化学元素，化学符号为Ir。铂族元素中非常硬、脆的银白色过渡金属，经过测量铱通常被认为密度第二高的元素（在锇之后），尽管通过涉及元素空间格的计算表明铱的密度更高。它也是最耐腐蚀的金属，在高达2000℃的温度下也是如此。只有某些熔盐和卤素对固体铱有腐蚀性，细碎的铱粉更容易发生化学反应并且可燃。"
+    return element
+
+
+def Element_Platinum(item):
+    element = item
+    element['name_zh'] = "铂"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "安东尼奥·乌略亚"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铂是原子序数为78的化学元素，化学符号为Pt。它是一种高密度、有韧性、完全不反应的灰白色珍贵金属。它的名字来源于西班牙语platina，译作“小银”。"
+    return element
+
+
+def Element_Gold(item):
+    element = item
+    element['name_zh'] = "金"
+    element['appearance_zh'] = "黄金属色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "中东"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "金是原子序数为79的化学元素，化学符号为Au（来自拉丁文：aurum）。单质的金是一种明亮的、高密度、柔软的、有韧性和延展性的略带红色的黄色金属。从化学上来看，金属于过渡金属11族元素。"
+    return element
+
+
+def Element_Mercury(item):
+    element = item
+    element['name_zh'] = "汞"
+    element['appearance_zh'] = "银色"
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "未知，早于公元前2000年"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "液体"
+    element['summary'] = "Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum. A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature."
+    element['summary_zh'] = "汞是原子序数为80的化学元素，化学符号为Hg。它通常被称为水银，以前称它为hydrargyrum。汞是一个较重的银色d块元素，唯一一个在标准温度和压强下为液态的金属元素；在这样的条件下，溴是唯一呈液态的非金属，而铯、镓和铷等金属的熔点要高于室温。"
+    return element
+
+
+def Element_Thallium(item):
+    element = item
+    element['name_zh'] = "铊"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "后过渡金属"
+    element['discovered_by_zh'] = "威廉·克里克施克"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铊是原子序数为81的化学元素，化学符号为Tl。这种柔软的灰色后过渡金属在自然界找不到单质。当隔离时，它会像锡一样在空气中暴露会变色。"
+    return element
+
+
+def Element_Lead(item):
+    element = item
+    element['name_zh'] = "铅"
+    element['appearance_zh'] = "灰色金属"
+    element['category_zh'] = "后过渡金属"
+    element['discovered_by_zh'] = "中东"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary'] = "Lead is a chemical element in the carbon group with symbol Pb (from Latin:plumbum) and atomic number 82. Lead is a soft, malleable and heavy post-transition metal. Metallic lead has a bluish-white color after being freshly cut, but it soon tarnishes to a dull grayish color when exposed to air."
+    element['summary_zh'] = "铅是原子序数为82的化学元素，化学符号为Pb（来自拉丁文：plumbum）。铅是一种柔软的、有韧性的过渡重金属。金属铅在切割后会呈现蓝白色，但暴露在空气中时，会很快变成暗淡的灰色。"
+    return element
+
+
+def Element_Bismuth(item):
+    element = item
+    element['name_zh'] = "铋"
+    element['appearance_zh'] = "银色光泽"
+    element['category_zh'] = "后过渡金属"
+    element['discovered_by'] = "Claude François Geoffroy"
+    element['discovered_by_zh'] = "克劳德·弗朗索瓦·若弗鲁瓦"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铋是原子序数为83的化学元素，化学符号为Bi。铋，五价后过渡金属，化学性质上类似于砷和锑。元素铋可能在自然界中存在，但它大多数是存在于其硫化物和氧化物形成的矿石中。"
+    return element
+
+
+def Element_Polonium(item):
+    element = item
+    element['name_zh'] = "钋"
+    element['appearance_zh'] = "银色"
+    element['category_zh'] = "后过渡金属"
+    element['discovered_by_zh'] = "皮埃尔·居里"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钋是原子序数为84的化学元素，化学符号为Po。1898年由玛丽·居里和皮埃尔·居里发现，它的同位素极不稳定，本身属于稀有高放射性元素。钋的化学性质与铋和碲相似，它存在于铀矿中，应用范围很小。"
+    return element
+
+
+def Element_Astatine(item):
+    element = item
+    element['name_zh'] = "砹"
+    element['appearance_zh'] = "未知，可能是金属色"
+    element['category_zh'] = "准金属"
+    element['discovered_by_zh'] = "戴尔·科森"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "砹是原子序数为85的化学元素，化学符号为At。它是地球上各种较重元素衰变的产物。它的所有同位素都是短暂的；最稳定的是砹210，半衰期为8.1小时。"
+    return element
+
+
+def Element_Radon(item):
+    element = item
+    element['name_zh'] = "氡"
+    element['appearance_zh'] = "无色气体，在高压电场下呈绿色或红色"
+    element['category_zh'] = "稀有气体"
+    element['discovered_by_zh'] = "弗里德里希·道恩"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "气体"
+    element['summary_zh'] = "氡是原子序数为86的化学元素，化学符号为Rn。它是一种无色、无味、放射性惰性气体，由镭的衰变物产生。其最稳定的同位素是Rn222，半衰期为3.8天。"
+    return element
+
+
+def Element_Francium(item):
+    element = item
+    element['name_zh'] = "钫"
+    element['appearance_zh'] = None
+    element['category_zh'] = "碱金属"
+    element['discovered_by_zh'] = "玛格丽特·佩里"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钫是原子序数为87的化学元素，化学符号为Fr。它曾被称为eka-铯和锕K。它是仅次于铯的第二少电负性元素。钫是一种高放射性金属，它衰变成砹、镭和氡。"
+    return element
+
+
+def Element_Radium(item):
+    element = item
+    element['name_zh'] = "镭"
+    element['appearance_zh'] = "银白色金属"
+    element['category_zh'] = "碱土金属"
+    element['discovered_by_zh'] = "皮埃尔·居里"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镭是原子序数为88的化学元素，化学符号为Ra。它是元素周期表第2组的第六个元素，也称为碱土金属。纯镭几乎是无色的，但暴露在空气中容易与氮气（而不是氧气）结合，形成氮化物（Ra3N2）的黑色表面层。"
+    return element
+
+
+def Element_Actinium(item):
+    element = item
+    element['name_zh'] = "锕"
+    element['appearance_zh'] = "银白色金属"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "弗里德里希·奥斯卡·吉塞尔"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "锕是原子序数为89的化学元素，化学符号为Ac（不要与乙酰基的缩写混淆）。它在1899年被发现，是第一个被分离的非原始放射性元素。钋、镭和氡在锕系之前就已经被研究，但是到1902年才被归类到一起。"
+    return element
+
+
+def Element_Thorium(item):
+    element = item
+    element['name_zh'] = "钍"
+    element['appearance_zh'] = "银色，经常带有黑暗色"
+    element['category_zh'] = "锕系"
+    element['discovered_by'] = "Jöns Jacob Berzelius"
+    element['discovered_by_zh'] = "永斯·雅各布·贝采利乌斯"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary'] = "Thorium is a chemical element with symbol Th and atomic number 90. A radioactive actinide metal, thorium is one of only two significantly radioactive elements that still occur naturally in large quantities as a primordial element (the other being uranium). It was discovered in 1828 by the Norwegian Reverend and amateur mineralogist Morten Thrane Esmark and identified by the Swedish chemist Jöns Jakob Berzelius, who named it after Thor, the Norse god of thunder."
+    element['summary_zh'] = "钍是原子序数为90的化学元素，化学符号为Th。放射性锕系金属，钍是仅有的两种明显放射性元素之一，作为原始元素在自然界中大部分存在（另一个是铀）。1828年由挪威牧师业余矿物学家莫滕·特拉内·埃斯馬克发现，并由瑞典化学家永斯·雅各布·贝采利乌斯以雷神索尔之名定义命名。"
+    return element
+
+
+def Element_Protactinium(item):
+    element = item
+    element['name_zh'] = "镤"
+    element['appearance_zh'] = "明亮，银色金属光泽"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "威廉·克里克施克"
+    element['named_by_zh'] = "奥托·哈恩"
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镤是原子序数为91的化学元素，化学符号为Pa。它是一种高密度的银灰色金属，易与氧气、水蒸气和无机酸反应。它可以形成各种化合物，其中镤常以+5氧化态存在，当然还有+4，+2甚至+3状态。"
+    return element
+
+
+def Element_Uranium(item):
+    element = item
+    element['name_zh'] = "铀"
+    element['appearance_zh'] = None
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "马丁·海因里希·克拉普罗特"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铀是原子序数为92的化学元素，化学符号为U。它是元素周期表锕系中的银白色金属。铀原子具有92个质子和92电子，其中6个是价电子。"
+    return element
+
+
+def Element_Neptunium(item):
+    element = item
+    element['name_zh'] = "镎"
+    element['appearance_zh'] = "银色金属"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "埃德温·麦克米伦"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镎是原子序数为93的化学元素，化学符号为Np。放射性锕系金属。镎在元素周期表中是第一个超铀元素，铀以天王星命名而镎在其之后，所以以海王星命名。"
+    return element
+
+
+def Element_Plutonium(item):
+    element = item
+    element['name_zh'] = "钚"
+    element['appearance_zh'] = "银白色，在空气中变成深灰色"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "格伦·西奥多·西博格"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钚是原子序数为94的化学元素，化学符号为Pu。它是一种有银灰色外观的锕系金属，当暴露在空气时会褪色，并在氧化时形成钝的涂层。该元素通常展示出六个同素异形体和四个氧化态。"
+    return element
+
+
+def Element_Americium(item):
+    element = item
+    element['name_zh'] = "镅"
+    element['appearance_zh'] = "银白色"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "格伦·西奥多·西博格"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镅是原子序数为95的化学元素，化学符号为Am。锕系元素的这个成员在元素周期表中位于镧系元素铕的下面，以美洲名字命名。镅于1944年首次由来自加利福尼亚伯克利市的格伦·西奥多·西博格小组在美国芝加哥大学的冶金实验室发现。"
+    return element
+
+
+def Element_Curium(item):
+    element = item
+    element['name_zh'] = "锔"
+    element['appearance_zh'] = "银色金属，在黑暗中泛紫色"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "格伦·西奥多·西博格"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary'] = "Curium is a transuranic radioactive chemical element with symbol Cm and atomic number 96. This element of the actinide series was named after Marie and Pierre Curie - both were known for their research on radioactivity. Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley."
+    element['summary_zh'] = "锔是原子序数为96的化学元素，化学符号为Cm。锕系的这一元素以玛丽·居里和皮埃尔·居里命名——他们以研究其放射性而闻名。加利福尼亚大学伯克利分校的格伦·西奥多·西博格小组在1944年7月首次制造出了锔并对其定义。"
+    return element
+
+
+def Element_Berkelium(item):
+    element = item
+    element['name_zh'] = "锫"
+    element['appearance_zh'] = "银色"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "劳伦斯伯克利国家实验室"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "锫是原子序数为97的化学元素，化学符号为Bk。它是锕系元素和超铀元素的成员。它以加利福尼亚伯克利市命名，于1949年12月在加利福尼亚大学辐射实验室被发现。"
+    return element
+
+
+def Element_Californium(item):
+    element = item
+    element['name_zh'] = "锎"
+    element['appearance_zh'] = "银色"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "劳伦斯伯克利国家实验室"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "锎是原子序数为98的化学元素，化学符号为Cf。该元素于1950年在加利福尼亚伯克利大学辐射实验室中通过用α粒子（氦-4离子）轰击首次获得。它是一种锕系元素，第六个超铀元素，并且有足够大的原子质量以至于可以用肉眼看见。"
+    return element
+
+
+def Element_Einsteinium(item):
+    element = item
+    element['name_zh'] = "锿"
+    element['appearance_zh'] = "银色"
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "劳伦斯伯克利国家实验室"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "锿是原子序数为99的化学元素，化学符号为Es。这是第七个超铀元素，锕系元素。它在1952年第一次氢弹爆炸所产生的碎片中被爱因斯坦发现，以他的名字艾尔伯特·爱因斯坦命名。"
+    return element
+
+
+def Element_Fermium(item):
+    element = item
+    element['name_zh'] = "镄"
+    element['appearance_zh'] = None
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "劳伦斯伯克利国家实验室"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镄是原子序数为100的化学元素，化学符号为Fm。它是锕系成员。它是由较轻元素的中子轰击形成的最重的元素，因此尽管纯镄金属没有制备出来，最后一个元素也可以在宏观量下制备。"
+    return element
+
+
+def Element_Mendelevium(item):
+    element = item
+    element['name_zh'] = "钔"
+    element['appearance_zh'] = None
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "劳伦斯伯克利国家实验室"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "钔是原子序数为101的化学元素，化学符号为Md。锕系中放射性超铀金属元素，是目前为止第一个无法用宏观量产生而是以轰击较轻中子元素产生的元素。它是第九个超铀元素。"
+    return element
+
+
+def Element_Nobelium(item):
+    element = item
+    element['name_zh'] = "锘"
+    element['appearance_zh'] = None
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究所"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "锘是原子序数为102的化学元素，化学符号为No。它的命名是为了纪念炸药的发明者科学的先驱者阿尔弗雷德·诺贝尔。它是放射性金属，第十个超铀元素，是锕系的倒数第二个成员。"
+    return element
+
+
+def Element_Lawrencium(item):
+    element = item
+    element['name_zh'] = "铹"
+    element['appearance_zh'] = None
+    element['category_zh'] = "锕系"
+    element['discovered_by_zh'] = "劳伦斯伯克利国家实验室"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "铹是原子序数为103的化学元素，化学符号为Lr。它的命名以纪念欧内斯特·劳伦斯，他是回旋加速器的发明者，该装置用于发现人造放射性元素。铹是放射性金属，第十一个超铀元素，也是锕系的最后一个成员。"
+    return element
+
+
+def Element_Rutherfordium(item):
+    element = item
+    element['name_zh'] = "𬬻"
+    element['appearance_zh'] = None
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究所"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𬬻是原子序数为104的化学元素，化学符号为Rf。它的命名是为了纪念物理学家欧内斯特·卢瑟福。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素267Rf，半衰期约为1.3个小时。在元素周期中，它是一个d块元素，第四行第二个过渡元素。"
+    return element
+
+
+def Element_Dubnium(item):
+    element = item
+    element['name_zh'] = "𬭊"
+    element['appearance_zh'] = None
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究所"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𬭊是原子序数为105的化学元素，化学符号为Db。它是以俄罗斯的Dubna镇（莫斯科北部）命名，那是它第一次产生的地方。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素𬭊-268，半衰期约28个小时。"
+    return element
+
+
+def Element_Seaborgium(item):
+    element = item
+    element['name_zh'] = "𬭳"
+    element['appearance_zh'] = None
+    element['category_zh'] = "过渡金属"
+    element['discovered_by_zh'] = "劳伦斯伯克利国家实验室"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𬭳是原子序数为106的化学元素，化学符号为Sg。它最稳定的同位素271Sg，半衰期为1.9分钟。最近发现的同位素269Sg，半衰期比它多一个周期。"
+    return element
+
+
+def Element_Bohrium(item):
+    element = item
+    element['name_zh'] = "𬭛"
+    element['appearance_zh'] = None
+    element['category_zh'] = "过渡金属"
+    element['discovered_by'] = "Gesellschaft für Schwerionenforschung"
+    element['discovered_by_zh'] = "亥姆霍兹重离子研究中心"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𬭛是原子序数为107的化学元素，化学符号为Bh。它以丹麦物理学家尼尔斯·玻尔命名。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素270Bh，半衰期约为61秒。"
+    return element
+
+
+def Element_Hassium(item):
+    element = item
+    element['name_zh'] = "𬭶"
+    element['appearance_zh'] = None
+    element['category_zh'] = "过渡金属"
+    element['discovered_by'] = "Gesellschaft für Schwerionenforschung"
+    element['discovered_by_zh'] = "亥姆霍兹重离子研究中心"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𬭶是原子序数为108的化学元素，化学符号为Hs。它以德国黑森州命名。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素269Hs，半衰期约为9.7秒；还有亚稳定态277mHs，有更长的半衰期约130秒。迄今为止，已经合成了超过100个𬭶原子。"
+    return element
+
+
+def Element_Metinerium(item):
+    element = item
+    element['name_zh'] = "鿏"
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，可能是过渡金属"
+    element['discovered_by'] = "Gesellschaft für Schwerionenforschung"
+    element['discovered_by_zh'] = "亥姆霍兹重离子研究中心"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "鿏是原子序数为109的化学元素，化学符号为Mt。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素鿏-278，半衰期约为7.6秒。"
+    return element
+
+
+def Element_Darmstadtium(item):
+    element = item
+    element['name_zh'] = "𫟼"
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，可能是过渡金属"
+    element['discovered_by'] = "Gesellschaft für Schwerionenforschung"
+    element['discovered_by_zh'] = "亥姆霍兹重离子研究中心"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𫟼是原子序数为110的化学元素，化学符号为Ds。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素𫟼-281，半衰期约为10秒。"
+    return element
+
+
+def Element_Roentgenium(item):
+    element = item
+    element['name_zh'] = "𬬭"
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，可能是过渡金属"
+    element['discovered_by'] = "Gesellschaft für Schwerionenforschung"
+    element['discovered_by_zh'] = "亥姆霍兹重离子研究中心"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𬬭是原子序数为111的化学元素，化学符号为Rg。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素𬬭-282，半衰期约为2.1分钟。𬬭于1994年由德国达姆施塔特附近的亥姆霍兹重离子研究中心首次产生。"
+    return element
+
+
+def Element_Copernicium(item):
+    element = item
+    element['name_zh'] = "鿔"
+    element['appearance_zh'] = None
+    element['category_zh'] = "过渡金属"
+    element['discovered_by'] = "Gesellschaft für Schwerionenforschung"
+    element['discovered_by_zh'] = "亥姆霍兹重离子研究中心"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "气体"
+    element['summary_zh'] = "鿔是原子序数为112的化学元素，化学符号为Cn。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素鿔-285，半衰期约为29秒，但有可能鿔的同位素有一个半衰期8.9分钟的核异构体。"
+    return element
+
+
+def Element_Nihonium(item):
+    element = item
+    element['name_zh'] = "鉨"
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，可能是过渡金属"
+    element['discovered_by_zh'] = "理化学研究所"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "鉨是原子序数为113的化学元素，化学符号为Nh。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性；最稳定的已知同位素鉨-286，半衰期约为20秒。"
+    return element
+
+
+def Element_Flerovium(item):
+    element = item
+    element['name_zh'] = "𫓧"
+    element['appearance_zh'] = None
+    element['category_zh'] = "后过渡金属"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究所"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𫓧是原子序数为114的化学元素，化学符号为Fl。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性。该元素以俄罗斯杜布纳联合原子核研究所的核反应实验室Flervo命名，于1998年被发现。"
+    return element
+
+
+def Element_Moscovium(item):
+    element = item
+    element['name_zh'] = "镆"
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，可能是后过渡金属"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究所"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "镆是原子序数为115的化学元素，化学符号为Mc。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性。已知的同位素镆-289，半衰期仅为220毫秒。它也称为eka-bismuth或者元素115。"
+    return element
+
+
+def Element_Livermorium(item):
+    element = item
+    element['name_zh'] = "𫟷"
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，可能是后过渡金属"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "𫟷是原子序数为116的化学元素，化学符号为Lv。它是一种合成元素（在实验室中可以产生但在自然界不存在的元素），具有放射性。该元素以美国劳伦斯利弗莫尔国家实验室命名，该研究所与俄罗斯杜布纳联合核研究所合作，于2000年发现𫟷。"
+    return element
+
+
+def Element_Tennessine(item):
+    element = item
+    element['name_zh'] = None
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，可能是准金属"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "Tennessine是原子序数为117的化学元素，化学符号为Ts。也被称为eka-astatine或元素117，它是元素周期表第七周期倒数第二个元素，是已知的第二重元素。截至到2016年，十五种tennessine原子已经被证实：六种在2010年首次合成，2012年七种，2014年两种。"
+    return element
+
+
+def Element_Oganesson(item):
+    element = item
+    element['name_zh'] = None
+    element['appearance_zh'] = None
+    element['category_zh'] = "未知，预测是稀有气体"
+    element['discovered_by_zh'] = "杜布纳联合原子核研究"
+    element['named_by_zh'] = None
+    element['phase_zh'] = "固体"
+    element['summary_zh'] = "Oganesson是原子序数为118的化学元素，化学符号为Og。它也称为eka-radon或元素118，在元素周期表中它是p块元素，是第七周期最后一个元素。Oganesson目前是第18组唯一一个合成元素。"
     return element
