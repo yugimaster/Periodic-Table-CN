@@ -192,6 +192,180 @@ def get_en_periodic_table():
             elif count == 59:
                 element = Element_Neodymium(moduel)
                 element_list.append(element)
+            elif count == 60:
+                element = Element_Promethium(moduel)
+                element_list.append(element)
+            elif count == 61:
+                element = Element_Samarium(moduel)
+                element_list.append(element)
+            elif count == 62:
+                element = Element_Europium(moduel)
+                element_list.append(element)
+            elif count == 63:
+                element = Element_Gadolinium(moduel)
+                element_list.append(element)
+            elif count == 64:
+                element = Element_Terbium(moduel)
+                element_list.append(element)
+            elif count == 65:
+                element = Element_Dysprosium(moduel)
+                element_list.append(element)
+            elif count == 66:
+                element = Element_Holmium(moduel)
+                element_list.append(element)
+            elif count == 67:
+                element = Element_Erbium(moduel)
+                element_list.append(element)
+            elif count == 68:
+                element = Element_Thulium(moduel)
+                element_list.append(element)
+            elif count == 69:
+                element = Element_Ytterbium(moduel)
+                element_list.append(element)
+            elif count == 70:
+                element = Element_Lutetium(moduel)
+                element_list.append(element)
+            elif count == 71:
+                element = Element_Hafnium(moduel)
+                element_list.append(element)
+            elif count == 72:
+                element = Element_Tantalum(moduel)
+                element_list.append(element)
+            elif count == 73:
+                element = Element_Tungsten(moduel)
+                element_list.append(element)
+            elif count == 74:
+                element = Element_Rhenium(moduel)
+                element_list.append(element)
+            elif count == 75:
+                element = Element_Osmium(moduel)
+                element_list.append(element)
+            elif count == 76:
+                element = Element_Iridium(moduel)
+                element_list.append(element)
+            elif count == 77:
+                element = Element_Platinum(moduel)
+                element_list.append(element)
+            elif count == 78:
+                element = Element_Gold(moduel)
+                element_list.append(element)
+            elif count == 79:
+                element = Element_Mercury(moduel)
+                element_list.append(element)
+            elif count == 80:
+                element = Element_Thallium(moduel)
+                element_list.append(element)
+            elif count == 81:
+                element = Element_Lead(moduel)
+                element_list.append(element)
+            elif count == 82:
+                element = Element_Bismuth(moduel)
+                element_list.append(element)
+            elif count == 83:
+                element = Element_Polonium(moduel)
+                element_list.append(element)
+            elif count == 84:
+                element = Element_Astatine(moduel)
+                element_list.append(element)
+            elif count == 85:
+                element = Element_Radon(moduel)
+                element_list.append(element)
+            elif count == 86:
+                element = Element_Francium(moduel)
+                element_list.append(element)
+            elif count == 87:
+                element = Element_Radium(moduel)
+                element_list.append(element)
+            elif count == 88:
+                element = Element_Actinium(moduel)
+                element_list.append(element)
+            elif count == 89:
+                element = Element_Thorium(moduel)
+                element_list.append(element)
+            elif count == 90:
+                element = Element_Protactinium(moduel)
+                element_list.append(element)
+            elif count == 91:
+                element = Element_Uranium(moduel)
+                element_list.append(element)
+            elif count == 92:
+                element = Element_Neptunium(moduel)
+                element_list.append(element)
+            elif count == 93:
+                element = Element_Plutonium(moduel)
+                element_list.append(element)
+            elif count == 94:
+                element = Element_Americium(moduel)
+                element_list.append(element)
+            elif count == 95:
+                element = Element_Curium(moduel)
+                element_list.append(element)
+            elif count == 96:
+                element = Element_Berkelium(moduel)
+                element_list.append(element)
+            elif count == 97:
+                element = Element_Californium(moduel)
+                element_list.append(element)
+            elif count == 98:
+                element = Element_Einsteinium(moduel)
+                element_list.append(element)
+            elif count == 99:
+                element = Element_Fermium(moduel)
+                element_list.append(element)
+            elif count == 100:
+                element = Element_Mendelevium(moduel)
+                element_list.append(element)
+            elif count == 101:
+                element = Element_Nobelium(moduel)
+                element_list.append(element)
+            elif count == 102:
+                element = Element_Lawrencium(moduel)
+                element_list.append(element)
+            elif count == 103:
+                element = Element_Rutherfordium(moduel)
+                element_list.append(element)
+            elif count == 104:
+                element = Element_Dubnium(moduel)
+                element_list.append(element)
+            elif count == 105:
+                element = Element_Seaborgium(moduel)
+                element_list.append(element)
+            elif count == 106:
+                element = Element_Bohrium(moduel)
+                element_list.append(element)
+            elif count == 107:
+                element = Element_Hassium(moduel)
+                element_list.append(element)
+            elif count == 108:
+                element = Element_Metinerium(moduel)
+                element_list.append(element)
+            elif count == 109:
+                element = Element_Darmstadtium(moduel)
+                element_list.append(element)
+            elif count == 110:
+                element = Element_Roentgenium(moduel)
+                element_list.append(element)
+            elif count == 111:
+                element = Element_Copernicium(moduel)
+                element_list.append(element)
+            elif count == 112:
+                element = Element_Nihonium(moduel)
+                element_list.append(element)
+            elif count == 113:
+                element = Element_Flerovium(moduel)
+                element_list.append(element)
+            elif count == 114:
+                element = Element_Moscovium(moduel)
+                element_list.append(element)
+            elif count == 115:
+                element = Element_Livermorium(moduel)
+                element_list.append(element)
+            elif count == 116:
+                element = Element_Tennessine(moduel)
+                element_list.append(element)
+            elif count == 117:
+                element = Element_Oganesson(moduel)
+                element_list.append(element)
         data = {"elements": element_list}
         with open("PeriodicTabel.json", 'w') as f:
             json.dump(data, f, ensure_ascii=False, sort_keys=True, indent=4)
