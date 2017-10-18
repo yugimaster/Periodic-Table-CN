@@ -14,6 +14,30 @@ A link to the source where the information was from is provided in each element 
 Now add some chinese values for the key whick has "_zh", so that we can see the json more conveniently.
 New keys such as: "appearance_zh", "category_zh", "discovered_by_zh", "name_zh", "phase_zh", "summary_zh".
 
+### 中英对照
+name: 名字
+symbol: 符号
+number: 序号
+period: 期数
+category: 类别 
+atomic_mass: 原子质量
+color: 颜色
+appearance: 状态
+phase: 形态
+melt: 熔点
+boil: 沸点
+density: 密度
+discovered_by: 发现者
+molar_heat: 摩尔热量
+source: 出处
+named_by: 命名者
+spectral_img: 光谱图
+summary: 概要
+xpos: 周期表横向位置
+ypos: 周期表纵向位置
+shells: 原子核外分布
+
+#
 Here's an example of how it's formatted:
 ```json
 {
@@ -51,29 +75,3 @@ Here's an example of how it's formatted:
             "ypos": 1
         }
 ]}
-```json
-
-
-
-### 中英对照
-name: 名字
-symbol: 符号
-number: 序号
-period: 期数
-category: 类别 
-atomic_mass: 原子质量
-color: 颜色
-appearance: 状态
-phase: 形态
-melt: 熔点
-boil: 沸点
-density: 密度
-discovered_by: 发现者
-molar_heat: 摩尔热量
-source: 出处
-named_by: 命名者
-spectral_img: 光谱图
-summary: 概要
-xpos: 周期表横向位置
-ypos: 周期表纵向位置
-shells: 原子核外分布
