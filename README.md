@@ -16,25 +16,45 @@ New keys such as: "appearance_zh", "category_zh", "discovered_by_zh", "name_zh",
 
 ### 中英对照
 name: 名字
+
 symbol: 符号
+
 number: 序号
+
 period: 期数
-category: 类别 
+
+category: 类别
+
 atomic_mass: 原子质量
+
 color: 颜色
+
 appearance: 状态
+
 phase: 形态
+
 melt: 熔点
+
 boil: 沸点
+
 density: 密度
+
 discovered_by: 发现者
+
 molar_heat: 摩尔热量
+
 source: 出处
+
 named_by: 命名者
+
 spectral_img: 光谱图
+
 summary: 概要
+
 xpos: 周期表横向位置
+
 ypos: 周期表纵向位置
+
 shells: 原子核外分布
 
 #
